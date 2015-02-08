@@ -1,2 +1,3 @@
 untitled.tex
 figures/use_software/use_software.png
+figures/training_by_career/training_by_career.png
