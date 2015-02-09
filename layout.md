@@ -15,3 +15,4 @@ location.tex
 figures/training_by_country/training_by_country.png
 figures/own_by_country/own_by_country.png
 figures/tools_by_country/tools_by_country.png
+Discussion.tex
