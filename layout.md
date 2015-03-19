@@ -4,7 +4,6 @@ Data and Methods.tex
 Results.tex
 figures/use_software/use_software.png
 career.tex
-figures/training_by_career/training_by_career.png
 figures/own_by_career/own_by_career.png
 figures/tools_by_career/tools_by_career.png
 Field.tex
