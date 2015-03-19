@@ -6,7 +6,6 @@ figures/use_software/use_software.png
 career.tex
 Field.tex
 location.tex
-figures/tools_by_country/tools_by_country.png
 Comments.tex
 Conclusions.tex
 Acknowledgements.tex
