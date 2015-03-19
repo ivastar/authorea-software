@@ -10,6 +10,7 @@ figures/own_by_country2/own_by_country2.png
 Training.tex
 figures/training_by_career1/training_by_career1.png
 figures/training_by_field1/training_by_field1.png
+figures/training_by_country1/training_by_country1.png
 location.tex
 Comments.tex
 Conclusions.tex
