@@ -15,6 +15,7 @@ figures/are_we_trained/are_we_trained.png
 location.tex
 figures/tools_by_career1/tools_by_career1.png
 figures/tools_by_field1/tools_by_field1.png
+figures/tools_by_country1/tools_by_country1.png
 Comments.tex
 Conclusions.tex
 Acknowledgements.tex
