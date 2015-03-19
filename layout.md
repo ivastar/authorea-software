@@ -13,6 +13,7 @@ figures/training_by_field1/training_by_field1.png
 figures/training_by_country1/training_by_country1.png
 figures/are_we_trained/are_we_trained.png
 location.tex
+figures/tools_by_career1/tools_by_career1.png
 Comments.tex
 Conclusions.tex
 Acknowledgements.tex
