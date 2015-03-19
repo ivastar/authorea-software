@@ -5,7 +5,6 @@ Results.tex
 figures/use_software/use_software.png
 career.tex
 Field.tex
-figures/own_by_field/own_by_field.png
 figures/tools_by_field/tools_by_field.png
 location.tex
 figures/training_by_country/training_by_country.png
