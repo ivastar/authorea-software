@@ -17,6 +17,7 @@ figures/tools_by_career1/tools_by_career1.png
 figures/tools_by_field1/tools_by_field1.png
 figures/tools_by_country1/tools_by_country1.png
 figures/tools_us_nonus/tools_us_nonus.png
+figures/venn_pyidl/venn_pyidl.png
 Comments.tex
 Conclusions.tex
 Acknowledgements.tex
