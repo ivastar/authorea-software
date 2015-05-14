@@ -18,6 +18,7 @@ figures/tools_by_career1/tools_by_career1.png
 figures/tools_by_field1/tools_by_field1.png
 figures/tools_by_country1/tools_by_country1.png
 figures/venn_pyidl/venn_pyidl.png
+subsection_Visualization_Of_Software_Tool__.tex
 Comments.tex
 SSI_compare.tex
 Conclusions.tex
