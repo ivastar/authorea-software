@@ -1,4 +1,3 @@
-Abstract.tex
 Introduction.tex
 DataandMethods.tex
 Results.tex
