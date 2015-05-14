@@ -11,6 +11,7 @@ Training.tex
 figures/training_by_career1/training_by_career1.png
 figures/training_by_field1/training_by_field1.png
 figures/training_by_country1/training_by_country1.png
+text__.tex
 location.tex
 figures/tools_by_career1/tools_by_career1.png
 figures/tools_by_field1/tools_by_field1.png
