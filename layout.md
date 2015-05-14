@@ -16,7 +16,7 @@ figures/tools_by_career1/tools_by_career1.png
 figures/tools_by_field1/tools_by_field1.png
 figures/tools_by_country1/tools_by_country1.png
 figures/venn_pyidl/venn_pyidl.png
-subsection_Visualization_Of_Software_Tools__.tex
+Visualization of Tools.tex
 software_tools_heirarchy_d3vis.html
 Comments.tex
 SSI_compare.tex
