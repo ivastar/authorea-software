@@ -19,6 +19,6 @@ figures/venn_pyidl/venn_pyidl.png
 Visualization of Tools.tex
 software_tools_heirarchy_d3vis.html
 Comments.tex
-SSI_compare.tex
+SSI Comparison.tex
 Conclusions.tex
 Acknowledgements.tex
