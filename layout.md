@@ -11,7 +11,7 @@ figures/training_by_career1/training_by_career1.png
 figures/training_by_field1/training_by_field1.png
 figures/training_by_country1/training_by_country1.png
 figures/are_we_trained2/are_we_trained2.png
-location.tex
+Software Tool Stack.tex
 figures/tools_by_career1/tools_by_career1.png
 figures/tools_by_field1/tools_by_field1.png
 figures/tools_by_country1/tools_by_country1.png
