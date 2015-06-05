@@ -15,6 +15,7 @@ Software Tool Stack.tex
 figures/tools_by_career1/tools_by_career1.png
 figures/tools_by_field1/tools_by_field1.png
 figures/tools_by_country1/tools_by_country1.png
+subsection_Python_vs_IDL__.tex
 figures/venn_pyidl/venn_pyidl.png
 Visualization of Tools.tex
 software_tools_heirarchy_d3vis.html
