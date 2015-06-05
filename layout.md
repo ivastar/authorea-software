@@ -8,6 +8,7 @@ figures/own_by_field2/own_by_field2.png
 figures/own_by_country2/own_by_country2.png
 Training.tex
 figures/training_by_career1/training_by_career1.png
+figures/are_we_trained4/are_we_trained4.png
 figures/are_we_trained3/are_we_trained3.png
 figures/training_by_field1/training_by_field1.png
 figures/training_by_country1/training_by_country1.png
