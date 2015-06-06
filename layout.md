@@ -16,7 +16,7 @@ figures/training_by_country1/training_by_country1.png
 Software Tool Stack.tex
 figures/tools_by_career1/tools_by_career.png
 figures/tools_by_field1/tools_by_field.png
-figures/tools_by_country1/tools_by_country1.png
+figures/tools_by_country1/tools_by_country.png
 subsection_Python_vs_IDL_Astronomers__.tex
 figures/venn_pyidl/venn_pyidl.png
 Visualization of Tools.tex
