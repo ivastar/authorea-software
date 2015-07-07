@@ -7,7 +7,7 @@ figures/use_software/use_software.png
 Writing Software.tex
 figures/own_by_career2/own_by_career2.png
 figures/own_by_field2/own_by_field2.png
-figures/own_by_country2/own_by_country2.png
+figures/own_by_country2/own_by_country.png
 Training.tex
 figures/training_by_career1/training_by_career1.png
 figures/are_we_trained4/are_we_trained.png
