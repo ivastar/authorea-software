@@ -1,5 +1,6 @@
 begin_abstract_We_report_on__.tex
 Introduction.tex
+figures/code_quality/code_quality.png
 DataandMethods.tex
 Results.tex
 figures/use_software/use_software.png
