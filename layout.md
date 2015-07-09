@@ -22,7 +22,7 @@ PythonvsIDLAstronomers__.tex
 figures/venn_pyidl/venn_pyidl.png
 VisualizationofTools.tex
 Comments.tex
-SSI Comparison.tex
+SSIComparison.tex
 Conclusions.tex
 Acknowledgements.tex
 beginappendixsection_Participant_Comments__.tex
