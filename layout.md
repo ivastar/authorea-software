@@ -4,7 +4,7 @@ figures/code_quality/code_quality.png
 DataandMethods.tex
 Results.tex
 figures/use_software/use_software.png
-Writing Software.tex
+WritingSoftware.tex
 figures/own_by_career2/own_by_career2.png
 figures/own_by_field2/own_by_field.png
 figures/own_by_country2/own_by_country.png
