@@ -20,7 +20,7 @@ figures/tools_by_field1/tools_by_field.png
 figures/tools_by_country1/tools_by_country.png
 PythonvsIDLAstronomers__.tex
 figures/venn_pyidl/venn_pyidl.png
-Visualization of Tools.tex
+VisualizationofTools.tex
 software_tools_heirarchy_d3vis.html
 Comments.tex
 SSI Comparison.tex
