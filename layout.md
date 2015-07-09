@@ -14,7 +14,7 @@ figures/are_we_trained4/are_we_trained.png
 figures/training_by_field2/training_by_field2.png
 figures/training_by_field1/training_by_field.png
 figures/training_by_country2/training_by_country.png
-Software Tool Stack.tex
+SoftwareToolStack.tex
 figures/tools_by_career1/tools_by_career.png
 figures/tools_by_field1/tools_by_field.png
 figures/tools_by_country1/tools_by_country.png
